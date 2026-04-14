@@ -1,4 +1,4 @@
-# 2025 Exoplanet Hands-On
+# Exoplanet Hands-On
 
 This repository contains the notebooks and reference material for a hands-on exercise on calibrating images of the transiting exoplanet WASP-11b and fitting its light curve.
 
