@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+input/
+
+output/*
+!output/.gitkeep
+!output/calibrated_image/
+output/calibrated_image/*
+!output/calibrated_image/.gitkeep
