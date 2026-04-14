@@ -15,6 +15,11 @@ The raw and auxiliary data are stored separately from the code in the Hugging Fa
 
 `https://huggingface.co/datasets/ruiyicheng/exoplanet_transiting_light_curve_hands_on-data`
 
+That dataset contains both:
+
+- a smaller `low_resolution/` copy (~10 MB per image) for quicker local setup
+- the original full-resolution files (~120 MB per image) at the dataset top level
+
 The notebooks in this GitHub repo expect the downloaded files to live under `./input/`.
 
 ## How to obtain the data
